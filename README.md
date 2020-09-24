@@ -9,7 +9,7 @@ causes of losing the customers and identify the key metrics which affect the chu
 The insights could be used in increasing the customer retention and help the
 business.
 
-#Technologies and Concepts
+# Technologies and Concepts
 
 Technologies: R
 
